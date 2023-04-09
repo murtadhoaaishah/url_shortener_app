@@ -1,0 +1,19 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.section1 {
+  margin: 5rem auto;
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+}
+.section1 span {
+  background-color: white;
+  height: 2rem;
+  width: 10rem;
+  border: 1px solid black;
+}
+.section2 {
+  margin: 5rem auto;
+}

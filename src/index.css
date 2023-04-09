@@ -1,0 +1,12 @@
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: wheat;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    /* color: #213547; */
+    /* background-color: ; */
+  }
+}
